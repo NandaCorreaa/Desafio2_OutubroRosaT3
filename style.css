@@ -42,6 +42,9 @@ header nav ul a {
   align-items: center;
   background-color: #FFD9EC;
 }
+.sessaoPrevencao img {
+  width: 60%;
+}
 .sessaoPrevencao p {
   width: 40%;
   font-size: 25px;
